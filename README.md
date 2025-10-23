@@ -1,4 +1,3 @@
-# Txakurrak
 <!DOCTYPE html>
 <html lang="eu">
 <head>
